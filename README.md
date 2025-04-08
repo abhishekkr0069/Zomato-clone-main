@@ -3,6 +3,7 @@ Zomato Clone - Frontend
 This is the frontend of a Zomato-like food delivery application built using React.js. The application allows users to browse restaurants, view menus, place orders, and manage their accounts.
 
 Features
+
 1)User authentication (Login/Signup)
 2)Browse restaurants
 3)View restaurant details and menus
@@ -11,6 +12,7 @@ Features
 5)esponsive UI with modern design
 
 Tech Stack
+
 1)React.js - Frontend framework
 2)Redux - State management
 3)React Router - Navigation
